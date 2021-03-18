@@ -4,10 +4,6 @@
 
 My name is Fabien Puech, junior web developper. I enjoy working on web automations, with headless browser. Currently learning Vue.js and Nuxt.js frameworks, my goal is to develop my Javascript skills. I don't mind working on both front-end or back-end code.
 
-<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafa-a&hide=php&theme=buefy&layout=compact" />
 
-[![Fafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fafa&theme=buefy)](https://github.com/fafa-a/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa-a&theme=buefy)(https://github.com/fafa-a/github-readme-stats)
-
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fafa&hide=contribs,prs&show_icons=true&theme=buefy"  />
