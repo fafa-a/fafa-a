@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello I'm Fabien 👋
+
+![Banner of my github profile](./assets/github-banner.png "Picture of my github profile")
 
 <!--
 **fafa-a/fafa-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
