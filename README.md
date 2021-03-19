@@ -12,38 +12,4 @@ My name is Fabien Puech, junior web developper. I enjoy working on web automatio
 
 </div>
 
-<div>
 
-<a href="https://github.com/fafa-a/github-profile-card">
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=fafa-a&repo=github-profile-card"  />
-</a>
-
-<a href="https://github.com/fafa-a/notification-message">
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=fafa-a&repo=notification-message"  />
-</a>
-
-</div>
-
-<div>
-
-<a href="https://github.com/fafa-a/social-network-animation">
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=fafa-a&repo=social-network-animation"  />
-</a>
-
-<a href="https://github.com/fafa-a/JobSuite">
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=fafa-a&repo=JobSuite"  />
-</a>
-
-</div>
-
-<div>
-
-<a href="https://github.com/fafa-a/neakers-db">
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=fafa-a&repo=sneakers-db"  />
-</a>
-
-<a href="https://github.com/fafa-a/nuxt-vueschool-course">
-<img  src="https://github-readme-stats.vercel.app/api/pin/?username=fafa-a&repo=nuxt-vueschool-course"  />
-</a>
-
-</div>
