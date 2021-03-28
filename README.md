@@ -8,6 +8,6 @@ My name is Fabien Puech, junior web developper. I enjoy working on web automatio
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafa-a&theme=buefy&layout=compact" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=fafa-a&hide=contribs,prs&show_icons=true&theme=buefy" />
+<img  src="https://github-readme-stats.vercel.app/api?username=fafa-a&hide=contribs,prs&show_icons=true&count_private=true&theme=buefy" />
 
 </div>
