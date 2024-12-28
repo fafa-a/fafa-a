@@ -5,20 +5,16 @@ I'm Fafa a web developer passionate about both front-end and back-end developmen
 Lately, I've been diving into functional programming and exploring languages like Rust and Gleam.  
 
 🔭 I'm currently working on:
-
 - A combat sports/HIIT timer mobile app using Tauri and Leptos
 - My personal blog [here](https://fafa-blog.pages.dev/)
 
 🛠️ Projects:
-
 - Anoukis: A minimalist Neovim theme
 
 💻 Main stack:
-
 - React, TypeScript
 
 🌱 Learning & Interests:
-
 - Rust, Gleam
 - Tauri, Leptos
 - Functional Programming
